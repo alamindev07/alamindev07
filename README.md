@@ -50,3 +50,12 @@ I’m always motivated to learn new technologies and improve my craft to deliver
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alamin.dev07@gmail.com)  
 
 ---
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alamindev07&show_icons=true&count_private=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alamindev07&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=alamindev07&theme=radical)
+
+
